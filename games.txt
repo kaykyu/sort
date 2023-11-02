@@ -1,909 +1,3 @@
-Duration of game played: 120 - 180 mins
-	Food Chain Magnate, published in 2015
-	Agricola, published in 2007
-	Kingdom Death  Monster, published in 2015
-	Eclipse, published in 2011
-	Le Havre, published in 2008
-	Dominant Species, published in 2010
-	Eldritch Horror, published in 2013
-	A Game of Thrones  The Board Game (Second Edition), published in 2011
-	Ora et Labora, published in 2011
-	Nations, published in 2013
-	Combat Commander  Europe, published in 2006
-	Trickerion  Legends of Illusion, published in 2015
-	Xia  Legends of a Drift System, published in 2014
-	Zombicide  Black Plague, published in 2015
-	Go, published in -2200
-	Hannibal  Rome vs. Carthage, published in 1996
-	Sid Meier's Civilization  The Board Game, published in 2010
-	Frank Herbert's Dune, published in 1979
-	Arkham Horror, published in 2005
-	Firefly  The Game, published in 2013
-	Descent  Journeys in the Dark, published in 2005
-	Gears of War  The Board Game, published in 2011
-	The Battle of Five Armies, published in 2014
-	Arkwright, published in 2014
-	Too Many Bones  Undertow, published in 2018
-	Leaving Earth, published in 2015
-	Conflict of Heroes  Awakening the Bear! \u2013 Operation Barbarossa 1941 (second edition), published in 2012
-	Britannia, published in 1986
-	The City of Kings, published in 2018
-	Merchant of Venus (second edition), published in 2012
-	History of the World, published in 1991
-	A Distant Plain, published in 2013
-	Shogun, published in 1986
-	Runebound (Second Edition), published in 2005
-	Hannibal & Hamilcar, published in 2018
-	Fortune and Glory  The Cliffhanger Game, published in 2011
-	Fief  France 1429, published in 2015
-	New Angeles, published in 2016
-	Warrior Knights, published in 2006
-	Forge War, published in 2015
-	V-Commandos, published in 2016
-	Warfighter  The Tactical Special Forces Card Game, published in 2014
-	Gloom of Kilforth  A Fantasy Quest Game, published in 2017
-	High Frontier (Third Edition), published in 2017
-	Escape Tales  The Awakening, published in 2018
-	Rise to Nobility, published in 2018
-	Detective  City of Angels, published in 2019
-	Illuminati (Second Edition), published in 1987
-	Risk Europe, published in 2015
-	Dungeons & Dragons  Conquest of Nerath Board Game, published in 2011
-	Village Attacks, published in 2017
-	Exit  The Game \u2013 The Catacombs of Horror, published in 2018
-	Panzergruppe Guderian, published in 1976
-	Dungeon Alliance, published in 2018
-	HEXplore It  The Valley of the Dead King, published in 2017
-	BATTALIA  The Creation, published in 2015
-	Axis & Allies  WWI 1914, published in 2013
-	Aventuria  Adventure Card Game, published in 2016
-	Wing Leader  Victories 1940-1942, published in 2015
-	Dust, published in 2007
-	1822  The Railways of Great Britain, published in 2016
-	Perdition's Mouth  Abyssal Rift, published in 2016
-	Era of Tribes, published in 2019
-	Cry Havoc, published in 1981
-	Risk  Game of Thrones Skirmish Edition, published in 2015
-	Lobotomy, published in 2017
-	Summit  The Board Game, published in 2017
-	Nippon Rails, published in 1992
-	Blackbeard, published in 1991
-	La Bataille des Quatre Bras, published in 1991
-	Empires of the Middle Ages, published in 1980
-	Gandhi  The Decolonization of British India, published in 2019
-	Wing Leader  Supremacy 1943-1945, published in 2016
-	Tank Duel  Enemy in the Crosshairs, published in 2019
-	Core Space, published in 2019
-	Warhammer Age of Sigmar, published in 2015
-	Sergeants Miniatures Game  Day of Days, published in 2011
-	Axis & Allies 1941, published in 2012
-	Battlestations  Second Edition, published in 2017
-	D-Day at Peleliu, published in 2015
-	Genesis  Empires and Kingdoms of the Ancient Middle East, published in 2015
-	Dystopian Wars, published in 2010
-	Bios  Origins (Second Edition), published in 2019
-	Wild Blue Yonder, published in 2017
-	Eclipse  Second Dawn for the Galaxy, published in 2020
-	Eschaton, published in 2016
-	HEXplore It  The Forests of Adrimon, published in 2019
-	La Bataille d'Auerst\u00e6dt, published in 1977
-	Peloponnesian War, published in 2019
-	Warhammer 40, published in 2017
-	The Last Hundred Yards, published in 2019
-	Waste Knights, published in 2015
-	Flight Leader, published in 1986
-	Wizards, published in 1982
-	Corps Command  Dawn's Early Light, published in 2010
-	'65  Squad-Level Combat in the Jungles of Vietnam, published in 2016
-	1857, published in 2015
-	Old School Tactical  Volume 2 \u2013 West Front 1944-45, published in 2017
-	Level 7 [Invasion], published in 2014
-	Burning Suns, published in 2013
-	Lock 'n Load Tactical  Heroes of the Pacific, published in 2015
-	Axis & Allies & Zombies, published in 2018
-	Secret Unknown Stuff  Escape from Dulce, published in 2018
-	Shanghai Trader, published in 1986
-	Bullfrog Goldfield, published in 2011
-	Endure the Stars, published in 2017
-	Panzer Grenadier  Desert Rats, published in 2004
-	Orl\u00e9ans Stories, published in 2019
-	History Maker Golf, published in 2017
-	Blue Cross, published in 2014
-	Fifth Frontier War, published in 1981
-	Siege of the Citadel, published in 2019
-	Mountaineers, published in 2019
-	Almeida et Bussaco 1810, published in 2010
-	War of the Ring, published in 2009
-	Fallen Angel, published in 2017
-	Le Lion et l'Ep\u00e9e, published in 2010
-	1822MX, published in 2019
-	Battle of Britain, published in 2017
-	Mrs Thatcher's War  The Falklands, published in 2017
-	Midway, published in 1991
-	Captains of the Golden Age, published in 2016
-	1866  The Struggle for Supremacy in Germany, published in 2016
-	Warzone (second edition), published in 1998
-	What A Tanker!, published in 2018
-	General Quarters, published in 1975
-	Lock 'n Load Tactical  Heroes of the Motherland, published in 2015
-	LEADERS  The Combined Strategy Game, published in 2013
-	1914  Germany at War, published in 2015
-	Mythology, published in 1980
-	Guadalcanal, published in 1992
-	Dungeon Universalis, published in 2019
-	1347  De Nigrae Pestis Ludo, published in 2018
-	Paths to Hell, published in 2016
-	Lock 'n Load Tactical  Heroes of the Falklands, published in 2015
-	Nomic, published in 1982
-	Lock 'n Load Tactical  Heroes of North Africa, published in 2017
-	Blight Chronicles  Agent Decker, published in 2019
-	Mothership  Tabletop Combat, published in 2016
-	Thornwatch, published in 2018
-	Adeptus Titanicus  The Horus Heresy Rules Set, published in 2018
-	Semper Fidelis  Bitwa o Lw\u00f3w 1918-1919, published in 2017
-	EXO  Mankind Reborn, published in 2019
-	Blood & Iron, published in 1993
-	Warzone  Universe Under Siege, published in 2004
-	Across The Narva  The Soviet Assault on Estonia, published in 2018
-	Napoleon's Art of War  Eylau and Dresden, published in 1979
-	Thunder's Edge, published in 1999
-	LANDER, published in 2020
-	Human Interface  Nakamura Tower, published in 2016
-	South China Sea, published in 2017
-	Pandemain  Traditional Farmers' Bread, published in 2019
-	Slouch Hats & Eggshells, published in 2011
-	Pacific Victory (Second Edition), published in 2018
-	Front Toward Enemy, published in 2019
-	Wrathborne Champions, published in 0
-	Demyansk Shield  the Frozen Fortress, published in 2017
-	Dux Britanniarum, published in 2012
-	SeaRovers, published in 2006
-	Hyperspace, published in 2019
-	Grand Fleet, published in 2010
-	1883, published in 2019
-	Patton's Vanguard, published in 2017
-	Normandie 1944, published in 1999
-	Corps Command  Dawn's Early Light \u2013 Red Hammer, published in 2015
-	Judge Dredd Miniatures Game, published in 2011
-	Chad  The Toyota Wars, published in 1991
-	Battles & Leaders, published in 1981
-	Star Traders, published in 2016
-	Ignite, published in 0
-	Guardians' Chronicles  Clash of Heroes, published in 2017
-	Tunisie 1943, published in 1995
-	Expedition Zetta, published in 2018
-	The Greek Civil War, published in 2014
-	Army Group Center  June 22-28, published in 1993
-	Gladiatoris, published in 2009
-	Tiger of Malaya, published in 2006
-	The Everrain, published in 2020
-	Dark Emperor, published in 1985
-	Kreta 1941, published in 1990
-	Hannibal  The Second Punic War, published in 1991
-	Attack in the Ardennes  The Battle of the Bulge, published in 1982
-	Artifact, published in 1980
-	Amasser Dragons, published in 2016
-	Birth of a Nation, published in 1982
-	Kesselschlacht  Ukraine Spring 1944, published in 2003
-	Chronicle X, published in 2019
-	NE-spelet, published in 1999
-	Brezhnev's War  NATO vs. the Warsaw Pact in Germany, published in 2018
-	Monopoly  World of Warcraft Collector's Edition, published in 2012
-	Monopoly   80th Anniversary Edition, published in 2015
-	Monopoly  Game of Thrones Collector's Edition, published in 2015
-	Monopoly  The Legend of Zelda, published in 2014
-	Zombies, published in 2017
-	Robotech RPG Tactics, published in 2014
-	Doctor Who Monopoly 50th Anniversary Collectors Edition, published in 2012
-	Monopoly  Despicable Me 2, published in 2013
-	Monopoly  Canadian Edition, published in 1982
-	Monopoly  Marvel Comics, published in 1999
-	Oil  The Great Adventure, published in 1960
-	Operation Elope, published in 2001
-	Monopoly, published in 1933
-	Advanced Civilization, published in 1991
-	Illuminati  Y2K, published in 1999
-	Domination, published in 1986
-	Dice Quest, published in 1990
-	Thunder's Edge  Demon Canyon, published in 1999
-Duration of game played: 60 - 120 mins
-	Gloomhaven, published in 2017
-	Brass  Birmingham, published in 2018
-	Twilight Struggle, published in 2005
-	Star Wars  Rebellion, published in 2016
-	Gaia Project, published in 2017
-	Great Western Trail, published in 2016
-	Terra Mystica, published in 2012
-	The Castles of Burgundy, published in 2011
-	Brass  Lancashire, published in 2007
-	Arkham Horror  The Card Game, published in 2016
-	Puerto Rico, published in 2002
-	A Feast for Odin, published in 2016
-	Mansions of Madness  Second Edition, published in 2016
-	Star Wars  Imperial Assault, published in 2014
-	Nemesis, published in 2018
-	Clans of Caledonia, published in 2017
-	The Voyages of Marco Polo, published in 2015
-	Robinson Crusoe  Adventures on the Cursed Island, published in 2012
-	Anachrony Essential Edition, published in 2017
-	Fields of Arle, published in 2014
-	Caylus Premium Limited Edition, published in 2005
-	Lords of Waterdeep, published in 2012
-	The Gallerist, published in 2015
-	Twilight Imperium (Third Edition), published in 2005
-	El Grande, published in 1995
-	Mombasa, published in 2015
-	Battlestar Galactica  The Board Game, published in 2008
-	Lisboa, published in 2017
-	Too Many Bones, published in 2017
-	Sherlock Holmes Consulting Detective  The Thames Murders & Other Cases, published in 1981
-	Trajan, published in 2011
-	Agricola (Revised Edition), published in 2016
-	Underwater Cities, published in 2018
-	Dead of Winter  A Crossroads Game, published in 2014
-	Grand Austria Hotel, published in 2015
-	Forbidden Stars, published in 2015
-	Lorenzo il Magnifico, published in 2016
-	Chaos in the Old World, published in 2009
-	Vinhos Deluxe Edition, published in 2016
-	Cosmic Encounter  42nd Anniversary Edition, published in 2008
-	The Lord of the Rings  Journeys in Middle-earth, published in 2019
-	This War of Mine  The Board Game, published in 2017
-	Detective  A Modern Crime Board Game, published in 2018
-	Imperial, published in 2006
-	Bora Bora, published in 2013
-	Exit  The Game \u2013 The Abandoned Cabin, published in 2016
-	Dead of Winter  The Long Night, published in 2016
-	Runewars, published in 2010
-	Fury of Dracula (Third\/Fourth Edition), published in 2015
-	Indonesia, published in 2005
-	Antiquity, published in 2004
-	Imperial 2030, published in 2009
-	Rokoko, published in 2013
-	The Manhattan Project  Energy Empire, published in 2016
-	Tainted Grail  The Fall of Avalon, published in 2019
-	Glass Road, published in 2013
-	Clash of Cultures, published in 2012
-	At the Gates of Loyang, published in 2009
-	Bruxelles 1893, published in 2013
-	Nippon, published in 2015
-	Altiplano, published in 2017
-	Sherlock Holmes Consulting Detective  Jack the Ripper & West End Adventures, published in 2017
-	A Few Acres of Snow, published in 2011
-	Pax Pamir (Second Edition), published in 2019
-	Vindication, published in 2018
-	1775  Rebellion, published in 2013
-	The Great Zimbabwe, published in 2012
-	Spartacus  A Game of Blood & Treachery, published in 2012
-	Mansions of Madness, published in 2011
-	Madeira, published in 2013
-	Nemo's War (Second Edition), published in 2017
-	Small World Underground, published in 2011
-	The Settlers of Catan, published in 1995
-	Freedom  The Underground Railroad, published in 2012
-	Vinhos, published in 2010
-	Hammer of the Scots, published in 2002
-	A Game of Thrones  The Card Game (Second Edition), published in 2015
-	Maracaibo, published in 2019
-	StarCraft  The Board Game, published in 2007
-	RoboRally, published in 1994
-	Arkham Horror (Third Edition), published in 2018
-	Runebound (Third Edition), published in 2015
-	Snowdonia, published in 2012
-	Argent  The Consortium, published in 2015
-	Struggle of Empires  Deluxe Edition, published in 2004
-	Star Wars  Outer Rim, published in 2019
-	Shadows of Brimstone  Swamps of Death, published in 2014
-	Escape Plan, published in 2019
-	Blood Bowl (2016 edition), published in 2016
-	ZhanGuo, published in 2014
-	Shakespeare, published in 2015
-	Myrmes, published in 2012
-	Specter Ops, published in 2015
-	Cry Havoc, published in 2016
-	Nusfjord, published in 2017
-	Arcadia Quest  Inferno, published in 2017
-	Ashes  Rise of the Phoenixborn, published in 2015
-	Empires  Age of Discovery, published in 2015
-	Sidereal Confluence  Trading and Negotiation in the Elysian Quadrant, published in 2017
-	Barrage, published in 2019
-	Vasco da Gama, published in 2009
-	Yedo, published in 2012
-	Pax Renaissance, published in 2016
-	Blackout  Hong Kong, published in 2018
-	Tribune  Primus Inter Pares, published in 2007
-	Exit  The Game \u2013 The Secret Lab, published in 2016
-	Wir sind das Volk!, published in 2014
-	Reef Encounter, published in 2004
-	XCOM  The Board Game, published in 2015
-	Concordia Venus, published in 2018
-	Hyperborea, published in 2014
-	Outlive, published in 2017
-	The Traders of Genoa, published in 2001
-	Pipeline, published in 2019
-	Core Worlds, published in 2011
-	AuZtralia, published in 2018
-	Sid Meier's Civilization  A New Dawn, published in 2017
-	Feudum, published in 2017
-	Unfair, published in 2017
-	Rex  Final Days of an Empire, published in 2012
-	878 Vikings  Invasions of England, published in 2017
-	Battles of Westeros, published in 2010
-	Fog of Love, published in 2017
-	Islebound, published in 2016
-	The Rivals for Catan, published in 2010
-	Black Angel, published in 2019
-	Ticket to Ride  Rails & Sails, published in 2016
-	CO\u2082  Second Chance, published in 2018
-	Heroes of Land, published in 2018
-	Wendake, published in 2017
-	Planet Steam, published in 2008
-	Ultimate Werewolf  Ultimate Edition, published in 2008
-	City of the Big Shoulders, published in 2019
-	The Settlers of Catan Card Game, published in 1996
-	Empires of the Void II, published in 2018
-	A Game of Thrones  The Card Game, published in 2008
-	Cerebria  The Inside World, published in 2018
-	The Prodigals Club, published in 2015
-	A Touch of Evil  The Supernatural Game, published in 2008
-	Time of Crisis  The Roman Empire in Turmoil, published in 2017
-	Evo, published in 2001
-	Viking Fury, published in 2004
-	Crisis, published in 2016
-	Amyitis, published in 2007
-	Fallout, published in 2017
-	On Mars, published in 2019
-	Cloudspire, published in 2019
-	Patchistory, published in 2013
-	Forum Trajanum, published in 2018
-	Obsession, published in 2018
-	UBOOT  The Board Game, published in 2019
-	Neanderthal, published in 2015
-	Ground Floor, published in 2012
-	DOOM  The Board Game, published in 2016
-	Deep Madness, published in 2018
-	Robo Rally, published in 2016
-	Transatlantic, published in 2017
-	Pax Pamir, published in 2015
-	John Company, published in 2017
-	Eurorails, published in 1990
-	Compounded, published in 2013
-	GKR  Heavy Hitters, published in 2018
-	Conquest of the Empire, published in 2005
-	Star Wars  Legion, published in 2018
-	Space Cadets, published in 2012
-	Street Masters, published in 2018
-	Path of Light and Shadow, published in 2017
-	Magnum Sal, published in 2010
-	Mythotopia, published in 2014
-	Conquest of Planet Earth  The Space Alien Game, published in 2010
-	Pit, published in 1903
-	Shadowrift, published in 2012
-	Cooper Island, published in 2019
-	Crystal Palace, published in 2019
-	Warhammer Quest  Silver Tower, published in 2016
-	Waggle Dance, published in 2014
-	Bios  Megafauna (Second Edition), published in 2017
-	Frostgrave, published in 2015
-	First Train to N\u00fcrnberg, published in 2010
-	Deckscape  Test Time, published in 2017
-	Warhammer Quest  Blackstone Fortress, published in 2018
-	Tikal II  The Lost Temple, published in 2010
-	Petrichor, published in 2018
-	Red November, published in 2008
-	Olympus, published in 2010
-	Bios  Genesis, published in 2016
-	1754  Conquest \u2013 The French and Indian War, published in 2017
-	Hunt for the Ring, published in 2017
-	Monster Lands, published in 2018
-	Space Cadets  Away Missions, published in 2015
-	Fate of the Elder Gods, published in 2017
-	Marco Polo II  In the Service of the Khan, published in 2019
-	Tempus, published in 2006
-	Cargo Noir, published in 2011
-	Ave Roma, published in 2016
-	Greenland, published in 2014
-	Human Punishment  Social Deduction 2.0, published in 2018
-	Pixie Queen, published in 2017
-	The Thing  Infection at Outpost 31, published in 2017
-	Byzantium, published in 2005
-	Joking Hazard, published in 2016
-	Tannh\u00e4user, published in 2007
-	Dungeon Saga  Dwarf King's Quest, published in 2015
-	Sorcerer, published in 2019
-	A Brief History of the World, published in 2009
-	WildLife, published in 2002
-	Deckscape  Heist in Venice, published in 2018
-	Invasion from Outer Space  The Martian Game, published in 2010
-	Small City, published in 2015
-	Big Trouble in Little China  The Game, published in 2018
-	Leader 1, published in 2008
-	Warfighter  The WWII Tactical Combat Card Game, published in 2016
-	After The Virus, published in 2017
-	The Walking Dead  All Out War, published in 2016
-	Tsukuyumi  Full Moon Down, published in 2018
-	Cavern Tavern, published in 2016
-	Warhammer 40, published in 1993
-	HATE, published in 2019
-	Abomination  The Heir of Frankenstein, published in 2019
-	SeaFall, published in 2016
-	Rurik  Dawn of Kiev, published in 2019
-	Prehistory, published in 2018
-	Skull Tales  Full Sail!, published in 2019
-	The Manhattan Project 2  Minutes to Midnight, published in 2018
-	Bios  Megafauna, published in 2011
-	The King's Guild, published in 2018
-	Quodd Heroes, published in 2019
-	Neuland, published in 2004
-	Asgard, published in 2012
-	Lignum, published in 2015
-	Solarius Mission, published in 2016
-	Munchkin Marvel, published in 2016
-	Dead Last, published in 2016
-	Rolling Freight, published in 2012
-	War and Peace, published in 1980
-	Darkest Night (Second edition), published in 2018
-	Posthuman, published in 2015
-	Darklight  Memento Mori, published in 2018
-	Blood on the Clocktower, published in 2020
-	City Tycoon, published in 2011
-	Captains of Industry, published in 2015
-	504, published in 2015
-	Lift Off, published in 2018
-	Atlantis Rising, published in 2012
-	Saga, published in 2011
-	Escape Room In A Box  The Werewolf Experiment, published in 2016
-	Warhammer 40, published in 2017
-	Illuminati, published in 1982
-	Atlantis Rising (second edition), published in 2019
-	The King's Abbey, published in 2016
-	History of the World, published in 2018
-	2GM Tactics, published in 2015
-	The Red Dragon Inn  Battle for Greyport, published in 2016
-	Tin Goose, published in 2016
-	D100 Dungeon, published in 2017
-	The Last Friday, published in 2016
-	Hand of Fate  Ordeals, published in 2018
-	Lunar Rails, published in 2003
-	VektoRace, published in 2018
-	Australian Rails, published in 1994
-	Riichi Mahjong, published in 0
-	Martian Rails, published in 2009
-	Vengeance, published in 2018
-	Biosphere, published in 2017
-	MIL (1049), published in 2011
-	Lock 'n Load Tactical  Day of Heroes, published in 2008
-	Vast  The Mysterious Manor, published in 2019
-	Commands & Colors  Medieval, published in 2019
-	Deckscape  The Mystery of Eldorado, published in 2018
-	B-17 Flying Fortress Leader, published in 2017
-	Brook City, published in 2019
-	Ghostbusters  The Board Game, published in 2015
-	Munchkin Legends, published in 2013
-	Russian Rails, published in 2004
-	Warhammer 40, published in 1987
-	Captive, published in 2016
-	Pax Emancipation, published in 2018
-	Paradox, published in 2016
-	SEAL Team Flix, published in 2018
-	Y\u00ednzi  The Shining Ming Dynasty, published in 2019
-	Hive Mind, published in 2016
-	Epic Resort, published in 2014
-	Assault of the Giants, published in 2017
-	The Cards of Cthulhu, published in 2014
-	Ground Floor (second edition), published in 2018
-	Empires of the Ancient World, published in 2000
-	Forged in Steel, published in 2016
-	Guards of Atlantis  Tabletop MOBA, published in 2017
-	Zombies!!! 4  The End..., published in 2004
-	Formula-1, published in 1962
-	Alien vs Predator  The Hunt Begins, published in 2015
-	Giro d'Italia  The Game, published in 2009
-	Conquistador, published in 1976
-	Nations at War  White Star Rising, published in 2010
-	Champions of Hara, published in 2018
-	Sanctum, published in 2019
-	Conquest of the Empire, published in 1984
-	Deckscape  Behind the Curtain, published in 2019
-	Krak\u00f3w 1325 AD, published in 2008
-	Bremerhaven, published in 2013
-	Alone, published in 2018
-	Grimslingers, published in 2015
-	WWE Superstar Showdown, published in 2015
-	Pax Transhumanity, published in 2019
-	Bloc by Bloc  The Insurrection Game, published in 2016
-	Skull Tales, published in 2015
-	Age of Thieves, published in 2016
-	Craftsmen, published in 2013
-	The Undercity  An Iron Kingdoms Adventure Board Game, published in 2015
-	Archmage, published in 2018
-	China Rails, published in 2007
-	The Lamps Are Going Out, published in 2016
-	Draconis Invasion, published in 2016
-	Warhammer 40, published in 2018
-	Munchkin  Guest Artist Edition, published in 2001
-	Alubari  A Nice Cup of Tea, published in 2019
-	Star Trek  Starship Tactical Combat Simulator, published in 1983
-	DRCongo, published in 2015
-	Krosmaster  Quest, published in 2015
-	Rangers of Shadow Deep, published in 2018
-	Timber Tom, published in 2008
-	Mi Tierra  New Era, published in 2016
-	Duck Dealer, published in 2008
-	Dawn of Peacemakers, published in 2018
-	The Walking Dead  No Sanctuary, published in 2018
-	Darwin's Choice, published in 2019
-	Master of the Galaxy, published in 2018
-	Exodus Fleet, published in 2017
-	Mistborn  House War, published in 2017
-	Anno 1701  Das Brettspiel, published in 2007
-	VENOM Assault, published in 2016
-	Dune  The Dice Game, published in 2015
-	Block Mania, published in 1987
-	Dungeonology  The Expedition, published in 2019
-	Smiths of Winterforge, published in 2018
-	Europe in Turmoil  Prelude to the Great War, published in 2018
-	Star Saga, published in 2017
-	Discover  Lands Unknown, published in 2018
-	Warhammer 40, published in 2004
-	Munchkin X-Men, published in 2017
-	Global Mogul, published in 2013
-	Ultimate Werewolf, published in 2014
-	Starfire, published in 1979
-	Tri-Pack  Battles of the American Revolution \u2013 Guilford, published in 2017
-	Warhammer Quest  Shadows Over Hammerhal, published in 2017
-	Warlords of Europe, published in 2010
-	Democracy under Siege, published in 2011
-	Rise of the Necromancers, published in 2018
-	Expedition  The Roleplaying Card Game, published in 2016
-	Fast Food Franchise, published in 1992
-	Agent Decker, published in 2015
-	Napol\u00e9on 1806, published in 2017
-	Incorporated, published in 2016
-	Nightfighter Ace  Air Defense Over Germany, published in 2018
-	Dragon Brew, published in 2017
-	1914  Glory's End \/ When Eagles Fight, published in 2014
-	Of Dreams & Shadows, published in 2016
-	Second Season Pro Football Game, published in 1999
-	Vikingar  The Conquest of Worlds, published in 2017
-	The Great Space Race, published in 2006
-	Extra! Extra!, published in 2015
-	Alien vs Predator  The Hunt Begins (Second Edition), published in 2017
-	Wizard's Academy, published in 2016
-	Lut\u00e8ce, published in 2015
-	Hellenica  Story of Greece, published in 2019
-	Mustangs, published in 1991
-	Soccer City, published in 2013
-	Shadow War  Armageddon, published in 2017
-	Risk  StarCraft Collector's Edition, published in 2012
-	Zona  The Secret of Chernobyl, published in 2019
-	Munchkin Impossible, published in 2006
-	Flotilla, published in 2019
-	Vintage, published in 2011
-	Waterloo 200, published in 2015
-	Z War One  Damnation, published in 2016
-	Wander  The Cult of Barnacle Bay, published in 2019
-	Fuji Koro, published in 2019
-	Moscow '41, published in 2016
-	Pillars of Eternity  Lords of the Eastern Reach, published in 2016
-	Dwellings of Eldervale, published in 2020
-	Barragoon, published in 2014
-	Stratego Waterloo, published in 2015
-	Aftermath, published in 2019
-	They Come Unseen, published in 2015
-	Glory  A Game of Knights, published in 2020
-	Munchkin The Nightmare Before Christmas, published in 2015
-	RUMBLESLAM, published in 2016
-	Normandy  The Beginning of the End, published in 2018
-	Radetzky  Milano 1848, published in 2018
-	The Boldest, published in 2018
-	Raiatea, published in 2018
-	Loup Garou, published in 2015
-	Arcane Legions, published in 2009
-	Legendary Creatures, published in 2018
-	Prospectus, published in 2016
-	Godtear, published in 2019
-	Myth  Dark Frontier, published in 2017
-	Operation Jubilee  Dieppe, published in 2010
-	Cutthroat Kingdoms, published in 2017
-	Hold the Line  The American Revolution, published in 2016
-	Advanced Song of Blades and Heroes, published in 2016
-	Munchkin Shakespeare Deluxe, published in 2017
-	The Sands of Time, published in 2018
-	God of War  The Card Game, published in 2019
-	Stawka wi\u0119ksza ni\u017c \u017cycie, published in 2015
-	Munchkin Oz  Guest Artist Edition, published in 2015
-	Dragon Racer, published in 2015
-	Heroes of Normandie  The Tactical Card Game, published in 2019
-	Posthuman Saga, published in 2019
-	Ukraine '44, published in 2006
-	Heropath  Dragon Roar, published in 2018
-	Munchkin Rick and Morty, published in 2017
-	Street Kings, published in 2016
-	Dust 1947, published in 2016
-	Orcs Must Die! The Board Game  Order Edition, published in 2016
-	Living Planet, published in 2019
-	Bright Future, published in 2015
-	Mini WWII, published in 2018
-	All is lost save Honour, published in 2006
-	Twilight of the Gods, published in 2017
-	Salem, published in 2016
-	1918  Brother Against Brother, published in 2018
-	C.O.G., published in 2017
-	Middle-earth Strategy Battle Game  Rules Manual, published in 2018
-	WitchHunt, published in 2016
-	1824  Austrian-Hungarian Railway (Second Edition), published in 2019
-	Pacific Fury  Guadalcanal, published in 2016
-	Rise of the Zombies!, published in 2013
-	Wrath of Kings, published in 2015
-	Side Quest, published in 2016
-	Munchkin Axe Cop, published in 2011
-	Valda, published in 2019
-	Tears of a Goddess, published in 2015
-	Tournament Fishing  The Deckbuilding Game, published in 2017
-	Soccer Blast Pro Soccer Game, published in 2014
-	Frutti di Mare  Veni, published in 2017
-	Smart10, published in 2017
-	Shadowstar Corsairs, published in 2016
-	A.E.G.I.S.  Combining Robot Strategy Game, published in 2018
-	Wars of Marcus Aurelius  Rome 170-180CE, published in 2018
-	Widower's Wood  An Iron Kingdoms Adventure Board Game, published in 2017
-	Secret Weapons of the Third Reich, published in 2014
-	Dropfleet Commander, published in 2016
-	Zombie Dawn, published in 2017
-	X-Men  Mutant Revolution, published in 2015
-	Defense Grid  The Board Game, published in 2017
-	Etherfields, published in 2020
-	Florenza Dice Game, published in 2019
-	Into the Bastards!  First tank battle, published in 2011
-	Green Box of Games, published in 2016
-	The Opulent, published in 2016
-	Chariots of Rome, published in 2017
-	Clinic  Deluxe Edition, published in 2019
-	Orcs Must Die! The Board Game  Unchained Edition, published in 2016
-	Virus, published in 2016
-	Endogenesis, published in 2019
-	Eternal Dynasty, published in 2015
-	Middle-earth Strategy Battle Game  The Lord Of The Rings \u2013 Battle of Pelennor Fields, published in 2018
-	Crisis at Steamfall, published in 2019
-	Seven Bridges, published in 2019
-	Frontier Wars, published in 2019
-	Darkness Comes Rattling, published in 2015
-	The Horus Heresy  Burning of Prospero, published in 2016
-	Bat Cup, published in 2018
-	Asteroid, published in 1980
-	Slaughterville, published in 2015
-	Ravage  Dungeons of Plunder, published in 2018
-	Portal of Morth, published in 2015
-	Holdfast  Atlantic 1939-45, published in 2016
-	Throne of Allegoria, published in 2019
-	LOAD  League of Ancient Defenders, published in 2016
-	Glenn Drover's Empires  Galactic Rebellion, published in 2016
-	The Romans, published in 2019
-	Bee Lives  We Will Only Know Summer, published in 2019
-	The White Tribe  Rhodesia's War 1966-1980, published in 2018
-	Escape Room In A Box  Flashback, published in 2019
-	Castellum  Maastricht, published in 0
-	The African Campaign  Designer Signature Edition, published in 2017
-	Rhein  River Trade, published in 2016
-	Day Night Z, published in 0
-	Medieval, published in 2018
-	Munchkin Teenage Mutant Ninja Turtles, published in 2018
-	Warsaw Rising Up 1945-1980, published in 2016
-	Kido Butai  Japan's Carriers at Midway, published in 2016
-	Leningrad '41, published in 2017
-	Shenandoah  Jackson's Valley Campaign, published in 2011
-	Plunderbund, published in 2019
-	Downfall, published in 2019
-	Circle of Fire  The Siege of Cholm, published in 2014
-	Parley, published in 2017
-	Random Encounters, published in 2015
-	Dungeon Derby, published in 2018
-	Lasalle, published in 2009
-	Maniacal, published in 2019
-	Paul Koenig's The Bulge  6th Panzer Army, published in 2013
-	Galactic Warlords  Battle for Dominion, published in 2018
-	A Wing and a Prayer  Bombing the Reich, published in 2016
-	Ghostbusters  The Board Game II, published in 2017
-	Badlands  Outpost of Humanity, published in 2017
-	Helsinki 1918  German Intervention in the Finnish Civil War, published in 2018
-	Consumption  Food and Choices, published in 2019
-	Cthulhu  A Deck Building Game, published in 2016
-	Aquarium, published in 2015
-	The Battle of Wakefield  Yorkshire, published in 2017
-	Beer Empire, published in 2016
-	Vejen, published in 2019
-	Rifles in the Ardennes, published in 2017
-	Empires at Sea  Deluxe Edition, published in 2016
-	Titans of Industry, published in 2013
-	Dunkirk  France 1940, published in 2018
-	Bloody Monday, published in 2017
-	Rogues to Riches, published in 2012
-	Stworze, published in 2017
-	Dominations  Road to Civilization, published in 2019
-	Kacper Ryx i Kr\u00f3l \u017bebrak\u00f3w, published in 2016
-	Rolling Empires, published in 2017
-	Blucher, published in 2015
-	Warhammer 40, published in 2017
-	Trans-Siberian Railroad, published in 2015
-	Campaign Commander Volume III  Punic Island, published in 2011
-	Neon Gods, published in 2018
-	Halo  Fleet Battles \u2013 The Fall of Reach, published in 2015
-	Inferno sugli Altipiani, published in 2017
-	Gamer Over! A Game Fair Murder Mystery, published in 2017
-	Deep Future, published in 2016
-	Lion of Judah  The War for Ethiopia, published in 2017
-	Battleborn Legacy, published in 2017
-	Alchemical Crystal Quest (second edition), published in 2017
-	Risk  The Dalek Invasion of Earth, published in 2014
-	Street Fighter  The Miniatures Game, published in 2018
-	Race Day, published in 2005
-	Waterloo 1815  Napoleon's Last Battle, published in 2016
-	Dreary Hamlet, published in 2016
-	Assassin's Creed  Brotherhood of Venice, published in 2020
-	Lee's Invincibles, published in 2016
-	POWERUP, published in 2018
-	Justice League  Dawn of Heroes, published in 2017
-	Le Temps des As, published in 2014
-	Yashima  Legends from Fairytale, published in 2016
-	Exit  The Game \u2013 The Stormy Flight, published in 2019
-	Mangaka  The Fast & Furious Game of Drawing Comics, published in 2016
-	Breaking Bad  The Board Game, published in 2017
-	Agents of Mayhem  Pride of Babylon, published in 2019
-	1759   The Siege of Quebec, published in 2018
-	Scrimish  Pillars of Eternity, published in 2015
-	1813  Napoleon's Nemesis, published in 2016
-	Magnate  The First City, published in 2020
-	Karty D\u017centelmen\u00f3w, published in 2015
-	1972  The Lost Phantom, published in 2017
-	Say My Name, published in 2015
-	Waste Knights  Second Edition, published in 2020
-	The Producer  1940-1944, published in 2015
-	18CLE, published in 2016
-	Modern Land Battles  Target Acquired, published in 2015
-	Rabbit Island  Explore, published in 0
-	Funglish, published in 2009
-	Zimby Mojo, published in 2016
-	Hafid's Grand Bazaar, published in 2017
-	Federation Space, published in 1981
-	Time of Legends  Destinies, published in 2020
-	Grant's Gamble, published in 2016
-	Darien Apocalypse, published in 2018
-	Anno Domini 1666, published in 2019
-	A birodalom bajnoka, published in 2015
-	X-ODUS  Rise of the Corruption, published in 2020
-	Empires of Zidal, published in 2013
-	Boot Hill, published in 1975
-	Build A Cure, published in 2018
-	Quicksilver, published in 2013
-	The Grunwald Swords, published in 2016
-	Magnificent Flying Machines, published in 2018
-	Madness At Midnight, published in 2017
-	Trenton 1776, published in 2015
-	Theosis, published in 2018
-	Deckscape  The Curse of the Sphinx, published in 2019
-	Holdfast  Pacific 1941-45, published in 2017
-	Deranged, published in 2019
-	Tomorrow's War (second edition), published in 2011
-	Villainy, published in 2014
-	The Martian Investigations, published in 2015
-	Jackal Archipelago, published in 2017
-	Glory, published in 2019
-	Carrier Battlegroup  Solitaire, published in 2014
-	Dobbers  Quest for the Key, published in 2019
-	Code Triage, published in 2018
-	Beyond the Gates of Antares, published in 2015
-	Detective Stories  Fall 2 \u2013 Antarktis Fatale, published in 2019
-	The Ardennes Offensive  The Battle of the Bulge, published in 1973
-	Debatable, published in 2017
-	Reconquista, published in 2018
-	Vivarium, published in 2017
-	Damocles Mission, published in 1983
-	Solomon Kane, published in 2020
-	Dead Throne Deluxe Edition, published in 2019
-	Epoch  Early Inventors, published in 2018
-	Dark Assembly, published in 2015
-	The Great Wall, published in 2020
-	H\u00e9rois & Monstros, published in 2015
-	Titans, published in 2020
-	NecronomiCORP, published in 2016
-	Hinge of Fate, published in 2013
-	Marvel Strike Teams, published in 2018
-	Scrabble Trickster, published in 2010
-	TravelBattle, published in 2017
-	Think  Memo Crime, published in 1997
-	Lettow-Vorbeck East Africa 1914-1918, published in 2015
-	Capture  A Medieval Wargame, published in 2016
-	Revenge of the Dictators, published in 2016
-	Wing It  The Game of Extreme Storytelling, published in 2017
-	Havenfall, published in 2017
-	Da Yunhe  Der Grosse Kaiserkanal, published in 2016
-	Steam Court, published in 2015
-	In Tenebris Lux, published in 2017
-	Million Club, published in 2016
-	Football Leader, published in 2010
-	Stworze International Edition, published in 2018
-	Queen Bee, published in 2019
-	Kill Shakespeare, published in 2014
-	Project Z  The Zombie Miniatures Game, published in 2016
-	Meeple Quest, published in 2017
-	Phoenix Covenant, published in 2017
-	Space Opera, published in 2017
-	Poor Choices  Adult Edition, published in 2016
-	Borders of Kanta, published in 2019
-	Long Range Desert Group  Special Operations Against Rommel 1941-1942, published in 2016
-	Operators, published in 2018
-	Wy\u015bcig Odkrywc\u00f3w, published in 0
-	Warage  Extended Edition, published in 2017
-	Southern Rails, published in 2015
-	Merrill's Marauders  Commandos in Burma 1943-1944, published in 2016
-	Destiny Aurora  Renegades, published in 2017
-	Zoocracy, published in 2019
-	Foe Hunters, published in 2016
-	Neon Knights  2086, published in 2018
-	Auf der Walz, published in 2019
-	Mission to Mars 2049, published in 2016
-	Free Market  NYC, published in 2020
-	Zanziar, published in 2008
-	Oligarchy  A Dystopian card game, published in 2016
-	Crimson Creek, published in 2016
-	The Battle of Bushy Run, published in 2014
-	Geek Battle  The Game Of Extreme Geekdom, published in 2012
-	Charty Party, published in 2019
-	War Titans  Invaders Must Die!, published in 0
-	WarQuest, published in 2016
-	Blood Race, published in 1999
-	Nova Cry, published in 2016
-	Cactus Air Force  Air War Over the Solomons, published in 2012
-	Harry Potter Miniatures Adventure Game, published in 2018
-	La Ruta del Tesoro, published in 1980
-	Champions of Faith, published in 2006
-	Gangster, published in 1985
-	Desert War  Tactical Warfare in North Africa, published in 1973
-	Twilight's Last Gleaming, published in 1997
-	Mixtape Massacre, published in 2016
-	Massilia, published in 2014
-	The American Goldrush 1849, published in 1985
-	Cave Pilot 55, published in 2015
-	Game Developerz, published in 2014
-	Tau Ceti  Planetary Crisis, published in 2017
-	Bloodsuckers, published in 2011
-	Penguin Brawl  Heroes of Pentarctica, published in 2018
-	Frontier  The Card Game, published in 2017
-	N\u00e4r & Fj\u00e4rran, published in 2002
-	Stratos, published in 2014
-	DEER LORD!, published in 2015
-	The Banner Saga  Warbands, published in 2016
-	High Stakes Drifter, published in 2005
-	Monster Misfits, published in 2016
-	Mystery! Motive for Murder, published in 2015
-	Jim Henson's The Dark Crystal  Board Game, published in 2018
-	The Red Dragon's Lair, published in 2014
-	Escape from Sunset Island   Zombie Apocalypse Simulator, published in 2013
-	Gearworld  The Borderlands, published in 2013
-	Open Fire, published in 1988
-	Z First Impact  Opus 1 Chapter 1, published in 2014
-	Legends of Signum  Battle for Vallor, published in 2018
-	Surviving  One month in, published in 2015
-	Hypnose, published in 2017
-	Geld & B\u00f6rse, published in 1987
-	Disturbed Friends, published in 2015
-	Lis Pustyni, published in 2007
-	Monopoly  Socialism, published in 2019
-	Monopoly  Star Wars Saga Edition, published in 2005
-	The Fuzztoons, published in 2005
-	Dixie, published in 1976
-	Evil Dead 2  The Official Board Game, published in 0
-	Punderdome  A Card Game for Pun Lovers, published in 2016
-	Jim Henson's Labyrinth  The Board Game, published in 2016
-	What Do You Meme?  A Millennial Card Game For Millennials And Their Millennial Friends, published in 2016
-	Overturn  Rising Sands, published in 0
-	Assassin, published in 1993
-	Block Mania  Mega-Mania, published in 1987
-	Kiek, published in 1999
-	Schicksack, published in 1983
-	Zombies!!! 2  Zombie Corps(e), published in 2002
-	The Cities Game, published in 1970
 Duration of game played: < 30 mins
 	Pandemic Legacy  Season 1, published in 2015
 	Terraforming Mars, published in 2016
@@ -19730,6 +18824,912 @@ Duration of game played: 30 - 60 mins
 	Starwars, published in 1977
 	Games of Art, published in 1975
 	Starfarers of Catan  5-6 Player Expansion, published in 2001
+Duration of game played: 60 - 120 mins
+	Gloomhaven, published in 2017
+	Brass  Birmingham, published in 2018
+	Twilight Struggle, published in 2005
+	Star Wars  Rebellion, published in 2016
+	Gaia Project, published in 2017
+	Great Western Trail, published in 2016
+	Terra Mystica, published in 2012
+	The Castles of Burgundy, published in 2011
+	Brass  Lancashire, published in 2007
+	Arkham Horror  The Card Game, published in 2016
+	Puerto Rico, published in 2002
+	A Feast for Odin, published in 2016
+	Mansions of Madness  Second Edition, published in 2016
+	Star Wars  Imperial Assault, published in 2014
+	Nemesis, published in 2018
+	Clans of Caledonia, published in 2017
+	The Voyages of Marco Polo, published in 2015
+	Robinson Crusoe  Adventures on the Cursed Island, published in 2012
+	Anachrony Essential Edition, published in 2017
+	Fields of Arle, published in 2014
+	Caylus Premium Limited Edition, published in 2005
+	Lords of Waterdeep, published in 2012
+	The Gallerist, published in 2015
+	Twilight Imperium (Third Edition), published in 2005
+	El Grande, published in 1995
+	Mombasa, published in 2015
+	Battlestar Galactica  The Board Game, published in 2008
+	Lisboa, published in 2017
+	Too Many Bones, published in 2017
+	Sherlock Holmes Consulting Detective  The Thames Murders & Other Cases, published in 1981
+	Trajan, published in 2011
+	Agricola (Revised Edition), published in 2016
+	Underwater Cities, published in 2018
+	Dead of Winter  A Crossroads Game, published in 2014
+	Grand Austria Hotel, published in 2015
+	Forbidden Stars, published in 2015
+	Lorenzo il Magnifico, published in 2016
+	Chaos in the Old World, published in 2009
+	Vinhos Deluxe Edition, published in 2016
+	Cosmic Encounter  42nd Anniversary Edition, published in 2008
+	The Lord of the Rings  Journeys in Middle-earth, published in 2019
+	This War of Mine  The Board Game, published in 2017
+	Detective  A Modern Crime Board Game, published in 2018
+	Imperial, published in 2006
+	Bora Bora, published in 2013
+	Exit  The Game \u2013 The Abandoned Cabin, published in 2016
+	Dead of Winter  The Long Night, published in 2016
+	Runewars, published in 2010
+	Fury of Dracula (Third\/Fourth Edition), published in 2015
+	Indonesia, published in 2005
+	Antiquity, published in 2004
+	Imperial 2030, published in 2009
+	Rokoko, published in 2013
+	The Manhattan Project  Energy Empire, published in 2016
+	Tainted Grail  The Fall of Avalon, published in 2019
+	Glass Road, published in 2013
+	Clash of Cultures, published in 2012
+	At the Gates of Loyang, published in 2009
+	Bruxelles 1893, published in 2013
+	Nippon, published in 2015
+	Altiplano, published in 2017
+	Sherlock Holmes Consulting Detective  Jack the Ripper & West End Adventures, published in 2017
+	A Few Acres of Snow, published in 2011
+	Pax Pamir (Second Edition), published in 2019
+	Vindication, published in 2018
+	1775  Rebellion, published in 2013
+	The Great Zimbabwe, published in 2012
+	Spartacus  A Game of Blood & Treachery, published in 2012
+	Mansions of Madness, published in 2011
+	Madeira, published in 2013
+	Nemo's War (Second Edition), published in 2017
+	Small World Underground, published in 2011
+	The Settlers of Catan, published in 1995
+	Freedom  The Underground Railroad, published in 2012
+	Vinhos, published in 2010
+	Hammer of the Scots, published in 2002
+	A Game of Thrones  The Card Game (Second Edition), published in 2015
+	Maracaibo, published in 2019
+	StarCraft  The Board Game, published in 2007
+	RoboRally, published in 1994
+	Arkham Horror (Third Edition), published in 2018
+	Runebound (Third Edition), published in 2015
+	Snowdonia, published in 2012
+	Argent  The Consortium, published in 2015
+	Struggle of Empires  Deluxe Edition, published in 2004
+	Star Wars  Outer Rim, published in 2019
+	Shadows of Brimstone  Swamps of Death, published in 2014
+	Escape Plan, published in 2019
+	Blood Bowl (2016 edition), published in 2016
+	ZhanGuo, published in 2014
+	Shakespeare, published in 2015
+	Myrmes, published in 2012
+	Specter Ops, published in 2015
+	Cry Havoc, published in 2016
+	Nusfjord, published in 2017
+	Arcadia Quest  Inferno, published in 2017
+	Ashes  Rise of the Phoenixborn, published in 2015
+	Empires  Age of Discovery, published in 2015
+	Sidereal Confluence  Trading and Negotiation in the Elysian Quadrant, published in 2017
+	Barrage, published in 2019
+	Vasco da Gama, published in 2009
+	Yedo, published in 2012
+	Pax Renaissance, published in 2016
+	Blackout  Hong Kong, published in 2018
+	Tribune  Primus Inter Pares, published in 2007
+	Exit  The Game \u2013 The Secret Lab, published in 2016
+	Wir sind das Volk!, published in 2014
+	Reef Encounter, published in 2004
+	XCOM  The Board Game, published in 2015
+	Concordia Venus, published in 2018
+	Hyperborea, published in 2014
+	Outlive, published in 2017
+	The Traders of Genoa, published in 2001
+	Pipeline, published in 2019
+	Core Worlds, published in 2011
+	AuZtralia, published in 2018
+	Sid Meier's Civilization  A New Dawn, published in 2017
+	Feudum, published in 2017
+	Unfair, published in 2017
+	Rex  Final Days of an Empire, published in 2012
+	878 Vikings  Invasions of England, published in 2017
+	Battles of Westeros, published in 2010
+	Fog of Love, published in 2017
+	Islebound, published in 2016
+	The Rivals for Catan, published in 2010
+	Black Angel, published in 2019
+	Ticket to Ride  Rails & Sails, published in 2016
+	CO\u2082  Second Chance, published in 2018
+	Heroes of Land, published in 2018
+	Wendake, published in 2017
+	Planet Steam, published in 2008
+	Ultimate Werewolf  Ultimate Edition, published in 2008
+	City of the Big Shoulders, published in 2019
+	The Settlers of Catan Card Game, published in 1996
+	Empires of the Void II, published in 2018
+	A Game of Thrones  The Card Game, published in 2008
+	Cerebria  The Inside World, published in 2018
+	The Prodigals Club, published in 2015
+	A Touch of Evil  The Supernatural Game, published in 2008
+	Time of Crisis  The Roman Empire in Turmoil, published in 2017
+	Evo, published in 2001
+	Viking Fury, published in 2004
+	Crisis, published in 2016
+	Amyitis, published in 2007
+	Fallout, published in 2017
+	On Mars, published in 2019
+	Cloudspire, published in 2019
+	Patchistory, published in 2013
+	Forum Trajanum, published in 2018
+	Obsession, published in 2018
+	UBOOT  The Board Game, published in 2019
+	Neanderthal, published in 2015
+	Ground Floor, published in 2012
+	DOOM  The Board Game, published in 2016
+	Deep Madness, published in 2018
+	Robo Rally, published in 2016
+	Transatlantic, published in 2017
+	Pax Pamir, published in 2015
+	John Company, published in 2017
+	Eurorails, published in 1990
+	Compounded, published in 2013
+	GKR  Heavy Hitters, published in 2018
+	Conquest of the Empire, published in 2005
+	Star Wars  Legion, published in 2018
+	Space Cadets, published in 2012
+	Street Masters, published in 2018
+	Path of Light and Shadow, published in 2017
+	Magnum Sal, published in 2010
+	Mythotopia, published in 2014
+	Conquest of Planet Earth  The Space Alien Game, published in 2010
+	Pit, published in 1903
+	Shadowrift, published in 2012
+	Cooper Island, published in 2019
+	Crystal Palace, published in 2019
+	Warhammer Quest  Silver Tower, published in 2016
+	Waggle Dance, published in 2014
+	Bios  Megafauna (Second Edition), published in 2017
+	Frostgrave, published in 2015
+	First Train to N\u00fcrnberg, published in 2010
+	Deckscape  Test Time, published in 2017
+	Warhammer Quest  Blackstone Fortress, published in 2018
+	Tikal II  The Lost Temple, published in 2010
+	Petrichor, published in 2018
+	Red November, published in 2008
+	Olympus, published in 2010
+	Bios  Genesis, published in 2016
+	1754  Conquest \u2013 The French and Indian War, published in 2017
+	Hunt for the Ring, published in 2017
+	Monster Lands, published in 2018
+	Space Cadets  Away Missions, published in 2015
+	Fate of the Elder Gods, published in 2017
+	Marco Polo II  In the Service of the Khan, published in 2019
+	Tempus, published in 2006
+	Cargo Noir, published in 2011
+	Ave Roma, published in 2016
+	Greenland, published in 2014
+	Human Punishment  Social Deduction 2.0, published in 2018
+	Pixie Queen, published in 2017
+	The Thing  Infection at Outpost 31, published in 2017
+	Byzantium, published in 2005
+	Joking Hazard, published in 2016
+	Tannh\u00e4user, published in 2007
+	Dungeon Saga  Dwarf King's Quest, published in 2015
+	Sorcerer, published in 2019
+	A Brief History of the World, published in 2009
+	WildLife, published in 2002
+	Deckscape  Heist in Venice, published in 2018
+	Invasion from Outer Space  The Martian Game, published in 2010
+	Small City, published in 2015
+	Big Trouble in Little China  The Game, published in 2018
+	Leader 1, published in 2008
+	Warfighter  The WWII Tactical Combat Card Game, published in 2016
+	After The Virus, published in 2017
+	The Walking Dead  All Out War, published in 2016
+	Tsukuyumi  Full Moon Down, published in 2018
+	Cavern Tavern, published in 2016
+	Warhammer 40, published in 1993
+	HATE, published in 2019
+	Abomination  The Heir of Frankenstein, published in 2019
+	SeaFall, published in 2016
+	Rurik  Dawn of Kiev, published in 2019
+	Prehistory, published in 2018
+	Skull Tales  Full Sail!, published in 2019
+	The Manhattan Project 2  Minutes to Midnight, published in 2018
+	Bios  Megafauna, published in 2011
+	The King's Guild, published in 2018
+	Quodd Heroes, published in 2019
+	Neuland, published in 2004
+	Asgard, published in 2012
+	Lignum, published in 2015
+	Solarius Mission, published in 2016
+	Munchkin Marvel, published in 2016
+	Dead Last, published in 2016
+	Rolling Freight, published in 2012
+	War and Peace, published in 1980
+	Darkest Night (Second edition), published in 2018
+	Posthuman, published in 2015
+	Darklight  Memento Mori, published in 2018
+	Blood on the Clocktower, published in 2020
+	City Tycoon, published in 2011
+	Captains of Industry, published in 2015
+	504, published in 2015
+	Lift Off, published in 2018
+	Atlantis Rising, published in 2012
+	Saga, published in 2011
+	Escape Room In A Box  The Werewolf Experiment, published in 2016
+	Warhammer 40, published in 2017
+	Illuminati, published in 1982
+	Atlantis Rising (second edition), published in 2019
+	The King's Abbey, published in 2016
+	History of the World, published in 2018
+	2GM Tactics, published in 2015
+	The Red Dragon Inn  Battle for Greyport, published in 2016
+	Tin Goose, published in 2016
+	D100 Dungeon, published in 2017
+	The Last Friday, published in 2016
+	Hand of Fate  Ordeals, published in 2018
+	Lunar Rails, published in 2003
+	VektoRace, published in 2018
+	Australian Rails, published in 1994
+	Riichi Mahjong, published in 0
+	Martian Rails, published in 2009
+	Vengeance, published in 2018
+	Biosphere, published in 2017
+	MIL (1049), published in 2011
+	Lock 'n Load Tactical  Day of Heroes, published in 2008
+	Vast  The Mysterious Manor, published in 2019
+	Commands & Colors  Medieval, published in 2019
+	Deckscape  The Mystery of Eldorado, published in 2018
+	B-17 Flying Fortress Leader, published in 2017
+	Brook City, published in 2019
+	Ghostbusters  The Board Game, published in 2015
+	Munchkin Legends, published in 2013
+	Russian Rails, published in 2004
+	Warhammer 40, published in 1987
+	Captive, published in 2016
+	Pax Emancipation, published in 2018
+	Paradox, published in 2016
+	SEAL Team Flix, published in 2018
+	Y\u00ednzi  The Shining Ming Dynasty, published in 2019
+	Hive Mind, published in 2016
+	Epic Resort, published in 2014
+	Assault of the Giants, published in 2017
+	The Cards of Cthulhu, published in 2014
+	Ground Floor (second edition), published in 2018
+	Empires of the Ancient World, published in 2000
+	Forged in Steel, published in 2016
+	Guards of Atlantis  Tabletop MOBA, published in 2017
+	Zombies!!! 4  The End..., published in 2004
+	Formula-1, published in 1962
+	Alien vs Predator  The Hunt Begins, published in 2015
+	Giro d'Italia  The Game, published in 2009
+	Conquistador, published in 1976
+	Nations at War  White Star Rising, published in 2010
+	Champions of Hara, published in 2018
+	Sanctum, published in 2019
+	Conquest of the Empire, published in 1984
+	Deckscape  Behind the Curtain, published in 2019
+	Krak\u00f3w 1325 AD, published in 2008
+	Bremerhaven, published in 2013
+	Alone, published in 2018
+	Grimslingers, published in 2015
+	WWE Superstar Showdown, published in 2015
+	Pax Transhumanity, published in 2019
+	Bloc by Bloc  The Insurrection Game, published in 2016
+	Skull Tales, published in 2015
+	Age of Thieves, published in 2016
+	Craftsmen, published in 2013
+	The Undercity  An Iron Kingdoms Adventure Board Game, published in 2015
+	Archmage, published in 2018
+	China Rails, published in 2007
+	The Lamps Are Going Out, published in 2016
+	Draconis Invasion, published in 2016
+	Warhammer 40, published in 2018
+	Munchkin  Guest Artist Edition, published in 2001
+	Alubari  A Nice Cup of Tea, published in 2019
+	Star Trek  Starship Tactical Combat Simulator, published in 1983
+	DRCongo, published in 2015
+	Krosmaster  Quest, published in 2015
+	Rangers of Shadow Deep, published in 2018
+	Timber Tom, published in 2008
+	Mi Tierra  New Era, published in 2016
+	Duck Dealer, published in 2008
+	Dawn of Peacemakers, published in 2018
+	The Walking Dead  No Sanctuary, published in 2018
+	Darwin's Choice, published in 2019
+	Master of the Galaxy, published in 2018
+	Exodus Fleet, published in 2017
+	Mistborn  House War, published in 2017
+	Anno 1701  Das Brettspiel, published in 2007
+	VENOM Assault, published in 2016
+	Dune  The Dice Game, published in 2015
+	Block Mania, published in 1987
+	Dungeonology  The Expedition, published in 2019
+	Smiths of Winterforge, published in 2018
+	Europe in Turmoil  Prelude to the Great War, published in 2018
+	Star Saga, published in 2017
+	Discover  Lands Unknown, published in 2018
+	Warhammer 40, published in 2004
+	Munchkin X-Men, published in 2017
+	Global Mogul, published in 2013
+	Ultimate Werewolf, published in 2014
+	Starfire, published in 1979
+	Tri-Pack  Battles of the American Revolution \u2013 Guilford, published in 2017
+	Warhammer Quest  Shadows Over Hammerhal, published in 2017
+	Warlords of Europe, published in 2010
+	Democracy under Siege, published in 2011
+	Rise of the Necromancers, published in 2018
+	Expedition  The Roleplaying Card Game, published in 2016
+	Fast Food Franchise, published in 1992
+	Agent Decker, published in 2015
+	Napol\u00e9on 1806, published in 2017
+	Incorporated, published in 2016
+	Nightfighter Ace  Air Defense Over Germany, published in 2018
+	Dragon Brew, published in 2017
+	1914  Glory's End \/ When Eagles Fight, published in 2014
+	Of Dreams & Shadows, published in 2016
+	Second Season Pro Football Game, published in 1999
+	Vikingar  The Conquest of Worlds, published in 2017
+	The Great Space Race, published in 2006
+	Extra! Extra!, published in 2015
+	Alien vs Predator  The Hunt Begins (Second Edition), published in 2017
+	Wizard's Academy, published in 2016
+	Lut\u00e8ce, published in 2015
+	Hellenica  Story of Greece, published in 2019
+	Mustangs, published in 1991
+	Soccer City, published in 2013
+	Shadow War  Armageddon, published in 2017
+	Risk  StarCraft Collector's Edition, published in 2012
+	Zona  The Secret of Chernobyl, published in 2019
+	Munchkin Impossible, published in 2006
+	Flotilla, published in 2019
+	Vintage, published in 2011
+	Waterloo 200, published in 2015
+	Z War One  Damnation, published in 2016
+	Wander  The Cult of Barnacle Bay, published in 2019
+	Fuji Koro, published in 2019
+	Moscow '41, published in 2016
+	Pillars of Eternity  Lords of the Eastern Reach, published in 2016
+	Dwellings of Eldervale, published in 2020
+	Barragoon, published in 2014
+	Stratego Waterloo, published in 2015
+	Aftermath, published in 2019
+	They Come Unseen, published in 2015
+	Glory  A Game of Knights, published in 2020
+	Munchkin The Nightmare Before Christmas, published in 2015
+	RUMBLESLAM, published in 2016
+	Normandy  The Beginning of the End, published in 2018
+	Radetzky  Milano 1848, published in 2018
+	The Boldest, published in 2018
+	Raiatea, published in 2018
+	Loup Garou, published in 2015
+	Arcane Legions, published in 2009
+	Legendary Creatures, published in 2018
+	Prospectus, published in 2016
+	Godtear, published in 2019
+	Myth  Dark Frontier, published in 2017
+	Operation Jubilee  Dieppe, published in 2010
+	Cutthroat Kingdoms, published in 2017
+	Hold the Line  The American Revolution, published in 2016
+	Advanced Song of Blades and Heroes, published in 2016
+	Munchkin Shakespeare Deluxe, published in 2017
+	The Sands of Time, published in 2018
+	God of War  The Card Game, published in 2019
+	Stawka wi\u0119ksza ni\u017c \u017cycie, published in 2015
+	Munchkin Oz  Guest Artist Edition, published in 2015
+	Dragon Racer, published in 2015
+	Heroes of Normandie  The Tactical Card Game, published in 2019
+	Posthuman Saga, published in 2019
+	Ukraine '44, published in 2006
+	Heropath  Dragon Roar, published in 2018
+	Munchkin Rick and Morty, published in 2017
+	Street Kings, published in 2016
+	Dust 1947, published in 2016
+	Orcs Must Die! The Board Game  Order Edition, published in 2016
+	Living Planet, published in 2019
+	Bright Future, published in 2015
+	Mini WWII, published in 2018
+	All is lost save Honour, published in 2006
+	Twilight of the Gods, published in 2017
+	Salem, published in 2016
+	1918  Brother Against Brother, published in 2018
+	C.O.G., published in 2017
+	Middle-earth Strategy Battle Game  Rules Manual, published in 2018
+	WitchHunt, published in 2016
+	1824  Austrian-Hungarian Railway (Second Edition), published in 2019
+	Pacific Fury  Guadalcanal, published in 2016
+	Rise of the Zombies!, published in 2013
+	Wrath of Kings, published in 2015
+	Side Quest, published in 2016
+	Munchkin Axe Cop, published in 2011
+	Valda, published in 2019
+	Tears of a Goddess, published in 2015
+	Tournament Fishing  The Deckbuilding Game, published in 2017
+	Soccer Blast Pro Soccer Game, published in 2014
+	Frutti di Mare  Veni, published in 2017
+	Smart10, published in 2017
+	Shadowstar Corsairs, published in 2016
+	A.E.G.I.S.  Combining Robot Strategy Game, published in 2018
+	Wars of Marcus Aurelius  Rome 170-180CE, published in 2018
+	Widower's Wood  An Iron Kingdoms Adventure Board Game, published in 2017
+	Secret Weapons of the Third Reich, published in 2014
+	Dropfleet Commander, published in 2016
+	Zombie Dawn, published in 2017
+	X-Men  Mutant Revolution, published in 2015
+	Defense Grid  The Board Game, published in 2017
+	Etherfields, published in 2020
+	Florenza Dice Game, published in 2019
+	Into the Bastards!  First tank battle, published in 2011
+	Green Box of Games, published in 2016
+	The Opulent, published in 2016
+	Chariots of Rome, published in 2017
+	Clinic  Deluxe Edition, published in 2019
+	Orcs Must Die! The Board Game  Unchained Edition, published in 2016
+	Virus, published in 2016
+	Endogenesis, published in 2019
+	Eternal Dynasty, published in 2015
+	Middle-earth Strategy Battle Game  The Lord Of The Rings \u2013 Battle of Pelennor Fields, published in 2018
+	Crisis at Steamfall, published in 2019
+	Seven Bridges, published in 2019
+	Frontier Wars, published in 2019
+	Darkness Comes Rattling, published in 2015
+	The Horus Heresy  Burning of Prospero, published in 2016
+	Bat Cup, published in 2018
+	Asteroid, published in 1980
+	Slaughterville, published in 2015
+	Ravage  Dungeons of Plunder, published in 2018
+	Portal of Morth, published in 2015
+	Holdfast  Atlantic 1939-45, published in 2016
+	Throne of Allegoria, published in 2019
+	LOAD  League of Ancient Defenders, published in 2016
+	Glenn Drover's Empires  Galactic Rebellion, published in 2016
+	The Romans, published in 2019
+	Bee Lives  We Will Only Know Summer, published in 2019
+	The White Tribe  Rhodesia's War 1966-1980, published in 2018
+	Escape Room In A Box  Flashback, published in 2019
+	Castellum  Maastricht, published in 0
+	The African Campaign  Designer Signature Edition, published in 2017
+	Rhein  River Trade, published in 2016
+	Day Night Z, published in 0
+	Medieval, published in 2018
+	Munchkin Teenage Mutant Ninja Turtles, published in 2018
+	Warsaw Rising Up 1945-1980, published in 2016
+	Kido Butai  Japan's Carriers at Midway, published in 2016
+	Leningrad '41, published in 2017
+	Shenandoah  Jackson's Valley Campaign, published in 2011
+	Plunderbund, published in 2019
+	Downfall, published in 2019
+	Circle of Fire  The Siege of Cholm, published in 2014
+	Parley, published in 2017
+	Random Encounters, published in 2015
+	Dungeon Derby, published in 2018
+	Lasalle, published in 2009
+	Maniacal, published in 2019
+	Paul Koenig's The Bulge  6th Panzer Army, published in 2013
+	Galactic Warlords  Battle for Dominion, published in 2018
+	A Wing and a Prayer  Bombing the Reich, published in 2016
+	Ghostbusters  The Board Game II, published in 2017
+	Badlands  Outpost of Humanity, published in 2017
+	Helsinki 1918  German Intervention in the Finnish Civil War, published in 2018
+	Consumption  Food and Choices, published in 2019
+	Cthulhu  A Deck Building Game, published in 2016
+	Aquarium, published in 2015
+	The Battle of Wakefield  Yorkshire, published in 2017
+	Beer Empire, published in 2016
+	Vejen, published in 2019
+	Rifles in the Ardennes, published in 2017
+	Empires at Sea  Deluxe Edition, published in 2016
+	Titans of Industry, published in 2013
+	Dunkirk  France 1940, published in 2018
+	Bloody Monday, published in 2017
+	Rogues to Riches, published in 2012
+	Stworze, published in 2017
+	Dominations  Road to Civilization, published in 2019
+	Kacper Ryx i Kr\u00f3l \u017bebrak\u00f3w, published in 2016
+	Rolling Empires, published in 2017
+	Blucher, published in 2015
+	Warhammer 40, published in 2017
+	Trans-Siberian Railroad, published in 2015
+	Campaign Commander Volume III  Punic Island, published in 2011
+	Neon Gods, published in 2018
+	Halo  Fleet Battles \u2013 The Fall of Reach, published in 2015
+	Inferno sugli Altipiani, published in 2017
+	Gamer Over! A Game Fair Murder Mystery, published in 2017
+	Deep Future, published in 2016
+	Lion of Judah  The War for Ethiopia, published in 2017
+	Battleborn Legacy, published in 2017
+	Alchemical Crystal Quest (second edition), published in 2017
+	Risk  The Dalek Invasion of Earth, published in 2014
+	Street Fighter  The Miniatures Game, published in 2018
+	Race Day, published in 2005
+	Waterloo 1815  Napoleon's Last Battle, published in 2016
+	Dreary Hamlet, published in 2016
+	Assassin's Creed  Brotherhood of Venice, published in 2020
+	Lee's Invincibles, published in 2016
+	POWERUP, published in 2018
+	Justice League  Dawn of Heroes, published in 2017
+	Le Temps des As, published in 2014
+	Yashima  Legends from Fairytale, published in 2016
+	Exit  The Game \u2013 The Stormy Flight, published in 2019
+	Mangaka  The Fast & Furious Game of Drawing Comics, published in 2016
+	Breaking Bad  The Board Game, published in 2017
+	Agents of Mayhem  Pride of Babylon, published in 2019
+	1759   The Siege of Quebec, published in 2018
+	Scrimish  Pillars of Eternity, published in 2015
+	1813  Napoleon's Nemesis, published in 2016
+	Magnate  The First City, published in 2020
+	Karty D\u017centelmen\u00f3w, published in 2015
+	1972  The Lost Phantom, published in 2017
+	Say My Name, published in 2015
+	Waste Knights  Second Edition, published in 2020
+	The Producer  1940-1944, published in 2015
+	18CLE, published in 2016
+	Modern Land Battles  Target Acquired, published in 2015
+	Rabbit Island  Explore, published in 0
+	Funglish, published in 2009
+	Zimby Mojo, published in 2016
+	Hafid's Grand Bazaar, published in 2017
+	Federation Space, published in 1981
+	Time of Legends  Destinies, published in 2020
+	Grant's Gamble, published in 2016
+	Darien Apocalypse, published in 2018
+	Anno Domini 1666, published in 2019
+	A birodalom bajnoka, published in 2015
+	X-ODUS  Rise of the Corruption, published in 2020
+	Empires of Zidal, published in 2013
+	Boot Hill, published in 1975
+	Build A Cure, published in 2018
+	Quicksilver, published in 2013
+	The Grunwald Swords, published in 2016
+	Magnificent Flying Machines, published in 2018
+	Madness At Midnight, published in 2017
+	Trenton 1776, published in 2015
+	Theosis, published in 2018
+	Deckscape  The Curse of the Sphinx, published in 2019
+	Holdfast  Pacific 1941-45, published in 2017
+	Deranged, published in 2019
+	Tomorrow's War (second edition), published in 2011
+	Villainy, published in 2014
+	The Martian Investigations, published in 2015
+	Jackal Archipelago, published in 2017
+	Glory, published in 2019
+	Carrier Battlegroup  Solitaire, published in 2014
+	Dobbers  Quest for the Key, published in 2019
+	Code Triage, published in 2018
+	Beyond the Gates of Antares, published in 2015
+	Detective Stories  Fall 2 \u2013 Antarktis Fatale, published in 2019
+	The Ardennes Offensive  The Battle of the Bulge, published in 1973
+	Debatable, published in 2017
+	Reconquista, published in 2018
+	Vivarium, published in 2017
+	Damocles Mission, published in 1983
+	Solomon Kane, published in 2020
+	Dead Throne Deluxe Edition, published in 2019
+	Epoch  Early Inventors, published in 2018
+	Dark Assembly, published in 2015
+	The Great Wall, published in 2020
+	H\u00e9rois & Monstros, published in 2015
+	Titans, published in 2020
+	NecronomiCORP, published in 2016
+	Hinge of Fate, published in 2013
+	Marvel Strike Teams, published in 2018
+	Scrabble Trickster, published in 2010
+	TravelBattle, published in 2017
+	Think  Memo Crime, published in 1997
+	Lettow-Vorbeck East Africa 1914-1918, published in 2015
+	Capture  A Medieval Wargame, published in 2016
+	Revenge of the Dictators, published in 2016
+	Wing It  The Game of Extreme Storytelling, published in 2017
+	Havenfall, published in 2017
+	Da Yunhe  Der Grosse Kaiserkanal, published in 2016
+	Steam Court, published in 2015
+	In Tenebris Lux, published in 2017
+	Million Club, published in 2016
+	Football Leader, published in 2010
+	Stworze International Edition, published in 2018
+	Queen Bee, published in 2019
+	Kill Shakespeare, published in 2014
+	Project Z  The Zombie Miniatures Game, published in 2016
+	Meeple Quest, published in 2017
+	Phoenix Covenant, published in 2017
+	Space Opera, published in 2017
+	Poor Choices  Adult Edition, published in 2016
+	Borders of Kanta, published in 2019
+	Long Range Desert Group  Special Operations Against Rommel 1941-1942, published in 2016
+	Operators, published in 2018
+	Wy\u015bcig Odkrywc\u00f3w, published in 0
+	Warage  Extended Edition, published in 2017
+	Southern Rails, published in 2015
+	Merrill's Marauders  Commandos in Burma 1943-1944, published in 2016
+	Destiny Aurora  Renegades, published in 2017
+	Zoocracy, published in 2019
+	Foe Hunters, published in 2016
+	Neon Knights  2086, published in 2018
+	Auf der Walz, published in 2019
+	Mission to Mars 2049, published in 2016
+	Free Market  NYC, published in 2020
+	Zanziar, published in 2008
+	Oligarchy  A Dystopian card game, published in 2016
+	Crimson Creek, published in 2016
+	The Battle of Bushy Run, published in 2014
+	Geek Battle  The Game Of Extreme Geekdom, published in 2012
+	Charty Party, published in 2019
+	War Titans  Invaders Must Die!, published in 0
+	WarQuest, published in 2016
+	Blood Race, published in 1999
+	Nova Cry, published in 2016
+	Cactus Air Force  Air War Over the Solomons, published in 2012
+	Harry Potter Miniatures Adventure Game, published in 2018
+	La Ruta del Tesoro, published in 1980
+	Champions of Faith, published in 2006
+	Gangster, published in 1985
+	Desert War  Tactical Warfare in North Africa, published in 1973
+	Twilight's Last Gleaming, published in 1997
+	Mixtape Massacre, published in 2016
+	Massilia, published in 2014
+	The American Goldrush 1849, published in 1985
+	Cave Pilot 55, published in 2015
+	Game Developerz, published in 2014
+	Tau Ceti  Planetary Crisis, published in 2017
+	Bloodsuckers, published in 2011
+	Penguin Brawl  Heroes of Pentarctica, published in 2018
+	Frontier  The Card Game, published in 2017
+	N\u00e4r & Fj\u00e4rran, published in 2002
+	Stratos, published in 2014
+	DEER LORD!, published in 2015
+	The Banner Saga  Warbands, published in 2016
+	High Stakes Drifter, published in 2005
+	Monster Misfits, published in 2016
+	Mystery! Motive for Murder, published in 2015
+	Jim Henson's The Dark Crystal  Board Game, published in 2018
+	The Red Dragon's Lair, published in 2014
+	Escape from Sunset Island   Zombie Apocalypse Simulator, published in 2013
+	Gearworld  The Borderlands, published in 2013
+	Open Fire, published in 1988
+	Z First Impact  Opus 1 Chapter 1, published in 2014
+	Legends of Signum  Battle for Vallor, published in 2018
+	Surviving  One month in, published in 2015
+	Hypnose, published in 2017
+	Geld & B\u00f6rse, published in 1987
+	Disturbed Friends, published in 2015
+	Lis Pustyni, published in 2007
+	Monopoly  Socialism, published in 2019
+	Monopoly  Star Wars Saga Edition, published in 2005
+	The Fuzztoons, published in 2005
+	Dixie, published in 1976
+	Evil Dead 2  The Official Board Game, published in 0
+	Punderdome  A Card Game for Pun Lovers, published in 2016
+	Jim Henson's Labyrinth  The Board Game, published in 2016
+	What Do You Meme?  A Millennial Card Game For Millennials And Their Millennial Friends, published in 2016
+	Overturn  Rising Sands, published in 0
+	Assassin, published in 1993
+	Block Mania  Mega-Mania, published in 1987
+	Kiek, published in 1999
+	Schicksack, published in 1983
+	Zombies!!! 2  Zombie Corps(e), published in 2002
+	The Cities Game, published in 1970
+Duration of game played: 120 - 180 mins
+	Food Chain Magnate, published in 2015
+	Agricola, published in 2007
+	Kingdom Death  Monster, published in 2015
+	Eclipse, published in 2011
+	Le Havre, published in 2008
+	Dominant Species, published in 2010
+	Eldritch Horror, published in 2013
+	A Game of Thrones  The Board Game (Second Edition), published in 2011
+	Ora et Labora, published in 2011
+	Nations, published in 2013
+	Combat Commander  Europe, published in 2006
+	Trickerion  Legends of Illusion, published in 2015
+	Xia  Legends of a Drift System, published in 2014
+	Zombicide  Black Plague, published in 2015
+	Go, published in -2200
+	Hannibal  Rome vs. Carthage, published in 1996
+	Sid Meier's Civilization  The Board Game, published in 2010
+	Frank Herbert's Dune, published in 1979
+	Arkham Horror, published in 2005
+	Firefly  The Game, published in 2013
+	Descent  Journeys in the Dark, published in 2005
+	Gears of War  The Board Game, published in 2011
+	The Battle of Five Armies, published in 2014
+	Arkwright, published in 2014
+	Too Many Bones  Undertow, published in 2018
+	Leaving Earth, published in 2015
+	Conflict of Heroes  Awakening the Bear! \u2013 Operation Barbarossa 1941 (second edition), published in 2012
+	Britannia, published in 1986
+	The City of Kings, published in 2018
+	Merchant of Venus (second edition), published in 2012
+	History of the World, published in 1991
+	A Distant Plain, published in 2013
+	Shogun, published in 1986
+	Runebound (Second Edition), published in 2005
+	Hannibal & Hamilcar, published in 2018
+	Fortune and Glory  The Cliffhanger Game, published in 2011
+	Fief  France 1429, published in 2015
+	New Angeles, published in 2016
+	Warrior Knights, published in 2006
+	Forge War, published in 2015
+	V-Commandos, published in 2016
+	Warfighter  The Tactical Special Forces Card Game, published in 2014
+	Gloom of Kilforth  A Fantasy Quest Game, published in 2017
+	High Frontier (Third Edition), published in 2017
+	Escape Tales  The Awakening, published in 2018
+	Rise to Nobility, published in 2018
+	Detective  City of Angels, published in 2019
+	Illuminati (Second Edition), published in 1987
+	Risk Europe, published in 2015
+	Dungeons & Dragons  Conquest of Nerath Board Game, published in 2011
+	Village Attacks, published in 2017
+	Exit  The Game \u2013 The Catacombs of Horror, published in 2018
+	Panzergruppe Guderian, published in 1976
+	Dungeon Alliance, published in 2018
+	HEXplore It  The Valley of the Dead King, published in 2017
+	BATTALIA  The Creation, published in 2015
+	Axis & Allies  WWI 1914, published in 2013
+	Aventuria  Adventure Card Game, published in 2016
+	Wing Leader  Victories 1940-1942, published in 2015
+	Dust, published in 2007
+	1822  The Railways of Great Britain, published in 2016
+	Perdition's Mouth  Abyssal Rift, published in 2016
+	Era of Tribes, published in 2019
+	Cry Havoc, published in 1981
+	Risk  Game of Thrones Skirmish Edition, published in 2015
+	Lobotomy, published in 2017
+	Summit  The Board Game, published in 2017
+	Nippon Rails, published in 1992
+	Blackbeard, published in 1991
+	La Bataille des Quatre Bras, published in 1991
+	Empires of the Middle Ages, published in 1980
+	Gandhi  The Decolonization of British India, published in 2019
+	Wing Leader  Supremacy 1943-1945, published in 2016
+	Tank Duel  Enemy in the Crosshairs, published in 2019
+	Core Space, published in 2019
+	Warhammer Age of Sigmar, published in 2015
+	Sergeants Miniatures Game  Day of Days, published in 2011
+	Axis & Allies 1941, published in 2012
+	Battlestations  Second Edition, published in 2017
+	D-Day at Peleliu, published in 2015
+	Genesis  Empires and Kingdoms of the Ancient Middle East, published in 2015
+	Dystopian Wars, published in 2010
+	Bios  Origins (Second Edition), published in 2019
+	Wild Blue Yonder, published in 2017
+	Eclipse  Second Dawn for the Galaxy, published in 2020
+	Eschaton, published in 2016
+	HEXplore It  The Forests of Adrimon, published in 2019
+	La Bataille d'Auerst\u00e6dt, published in 1977
+	Peloponnesian War, published in 2019
+	Warhammer 40, published in 2017
+	The Last Hundred Yards, published in 2019
+	Waste Knights, published in 2015
+	Flight Leader, published in 1986
+	Wizards, published in 1982
+	Corps Command  Dawn's Early Light, published in 2010
+	'65  Squad-Level Combat in the Jungles of Vietnam, published in 2016
+	1857, published in 2015
+	Old School Tactical  Volume 2 \u2013 West Front 1944-45, published in 2017
+	Level 7 [Invasion], published in 2014
+	Burning Suns, published in 2013
+	Lock 'n Load Tactical  Heroes of the Pacific, published in 2015
+	Axis & Allies & Zombies, published in 2018
+	Secret Unknown Stuff  Escape from Dulce, published in 2018
+	Shanghai Trader, published in 1986
+	Bullfrog Goldfield, published in 2011
+	Endure the Stars, published in 2017
+	Panzer Grenadier  Desert Rats, published in 2004
+	Orl\u00e9ans Stories, published in 2019
+	History Maker Golf, published in 2017
+	Blue Cross, published in 2014
+	Fifth Frontier War, published in 1981
+	Siege of the Citadel, published in 2019
+	Mountaineers, published in 2019
+	Almeida et Bussaco 1810, published in 2010
+	War of the Ring, published in 2009
+	Fallen Angel, published in 2017
+	Le Lion et l'Ep\u00e9e, published in 2010
+	1822MX, published in 2019
+	Battle of Britain, published in 2017
+	Mrs Thatcher's War  The Falklands, published in 2017
+	Midway, published in 1991
+	Captains of the Golden Age, published in 2016
+	1866  The Struggle for Supremacy in Germany, published in 2016
+	Warzone (second edition), published in 1998
+	What A Tanker!, published in 2018
+	General Quarters, published in 1975
+	Lock 'n Load Tactical  Heroes of the Motherland, published in 2015
+	LEADERS  The Combined Strategy Game, published in 2013
+	1914  Germany at War, published in 2015
+	Mythology, published in 1980
+	Guadalcanal, published in 1992
+	Dungeon Universalis, published in 2019
+	1347  De Nigrae Pestis Ludo, published in 2018
+	Paths to Hell, published in 2016
+	Lock 'n Load Tactical  Heroes of the Falklands, published in 2015
+	Nomic, published in 1982
+	Lock 'n Load Tactical  Heroes of North Africa, published in 2017
+	Blight Chronicles  Agent Decker, published in 2019
+	Mothership  Tabletop Combat, published in 2016
+	Thornwatch, published in 2018
+	Adeptus Titanicus  The Horus Heresy Rules Set, published in 2018
+	Semper Fidelis  Bitwa o Lw\u00f3w 1918-1919, published in 2017
+	EXO  Mankind Reborn, published in 2019
+	Blood & Iron, published in 1993
+	Warzone  Universe Under Siege, published in 2004
+	Across The Narva  The Soviet Assault on Estonia, published in 2018
+	Napoleon's Art of War  Eylau and Dresden, published in 1979
+	Thunder's Edge, published in 1999
+	LANDER, published in 2020
+	Human Interface  Nakamura Tower, published in 2016
+	South China Sea, published in 2017
+	Pandemain  Traditional Farmers' Bread, published in 2019
+	Slouch Hats & Eggshells, published in 2011
+	Pacific Victory (Second Edition), published in 2018
+	Front Toward Enemy, published in 2019
+	Wrathborne Champions, published in 0
+	Demyansk Shield  the Frozen Fortress, published in 2017
+	Dux Britanniarum, published in 2012
+	SeaRovers, published in 2006
+	Hyperspace, published in 2019
+	Grand Fleet, published in 2010
+	1883, published in 2019
+	Patton's Vanguard, published in 2017
+	Normandie 1944, published in 1999
+	Corps Command  Dawn's Early Light \u2013 Red Hammer, published in 2015
+	Judge Dredd Miniatures Game, published in 2011
+	Chad  The Toyota Wars, published in 1991
+	Battles & Leaders, published in 1981
+	Star Traders, published in 2016
+	Ignite, published in 0
+	Guardians' Chronicles  Clash of Heroes, published in 2017
+	Tunisie 1943, published in 1995
+	Expedition Zetta, published in 2018
+	The Greek Civil War, published in 2014
+	Army Group Center  June 22-28, published in 1993
+	Gladiatoris, published in 2009
+	Tiger of Malaya, published in 2006
+	The Everrain, published in 2020
+	Dark Emperor, published in 1985
+	Kreta 1941, published in 1990
+	Hannibal  The Second Punic War, published in 1991
+	Attack in the Ardennes  The Battle of the Bulge, published in 1982
+	Artifact, published in 1980
+	Amasser Dragons, published in 2016
+	Birth of a Nation, published in 1982
+	Kesselschlacht  Ukraine Spring 1944, published in 2003
+	Chronicle X, published in 2019
+	NE-spelet, published in 1999
+	Brezhnev's War  NATO vs. the Warsaw Pact in Germany, published in 2018
+	Monopoly  World of Warcraft Collector's Edition, published in 2012
+	Monopoly   80th Anniversary Edition, published in 2015
+	Monopoly  Game of Thrones Collector's Edition, published in 2015
+	Monopoly  The Legend of Zelda, published in 2014
+	Zombies, published in 2017
+	Robotech RPG Tactics, published in 2014
+	Doctor Who Monopoly 50th Anniversary Collectors Edition, published in 2012
+	Monopoly  Despicable Me 2, published in 2013
+	Monopoly  Canadian Edition, published in 1982
+	Monopoly  Marvel Comics, published in 1999
+	Oil  The Great Adventure, published in 1960
+	Operation Elope, published in 2001
+	Monopoly, published in 1933
+	Advanced Civilization, published in 1991
+	Illuminati  Y2K, published in 1999
+	Domination, published in 1986
+	Dice Quest, published in 1990
+	Thunder's Edge  Demon Canyon, published in 1999
 Duration of game played: >= 180 mins
 	Twilight Imperium (Fourth Edition), published in 2017
 	The 7th Continent, published in 2017

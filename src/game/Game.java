@@ -14,7 +14,7 @@ public class Game {
         this.year = year;
         this.maxPlaytime = maxPlaytime;
         this.minPlaytime = minPlaytime;      
-        this.playtime = maxPlaytime - minPlaytime;
+        this.playtime = this.maxPlaytime - this.minPlaytime;
         if (playtime >= 180) {
             this.band = ">= 180";
         } else if (playtime >= 120) {

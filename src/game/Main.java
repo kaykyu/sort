@@ -12,6 +12,8 @@ import java.util.stream.Collectors;
 
 public class Main {
 
+    private static final String[] band = {"< 30", "30 - 60", "60 - 120", "120 - 180", ">= 180"};
+
     public static void main(String[] args) {
 
         try (FileReader fr = new FileReader(args[0])) {
@@ -28,9 +30,10 @@ public class Main {
             FileWriter fw = new FileWriter(txt);
             BufferedWriter bw = new BufferedWriter(fw);
             
-            for(String band : gamesList.keySet()) {
-                bw.write(String.format("Duration of game played: %s mins\n", band));
-                for (Game game : gamesList.get(band)) {
+            for(int i = 0; i < band.length; i++) {
+                String category = band[i];
+                bw.write(String.format("Duration of game played: %s mins\n", category));
+                for (Game game : gamesList.get(category)) {
                     bw.write(String.format("\t%s, published in %d\n", game.getName(), game.getYear()));
                 }
             }
